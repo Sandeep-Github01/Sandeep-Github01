@@ -1,5 +1,14 @@
 # 💫 About Me:
-As a Bachelor of Computer Applications student passionate about web development and technology, I am dedicated to creating innovative digital solutions. My hands-on experience includes developing 'SNEAKERMANDU,' a dynamic e-commerce platform, where I honed my skills in PHP, JavaScript, MySQL, and Bootstrap.<br>I thrive on tackling complex challenges and continuously expanding my knowledge of emerging technologies. My goal is to deepen my expertise in front-end and back-end development while contributing to projects that make a meaningful impact.<br>I am currently seeking opportunities in web development where I can collaborate with like-minded professionals and further enhance my skills. Let’s connect and explore how we can create exceptional web experiences together!
+👋 Hi, I'm Sandeep Maharjan
+I’m a Bachelor of Computer Applications (BCA) student with a strong passion for web development and technology. I love building innovative digital solutions and constantly exploring new technologies.
+
+💻 Tech Stack: PHP, JavaScript, MySQL, Bootstrap
+🚀 Projects: Developed SNEAKERMANDU, a dynamic e-commerce platform, sharpening my front-end and back-end skills.
+🎯 Goal: To deepen my expertise in full-stack development and contribute to impactful projects.
+
+I’m always open to collaboration and new opportunities in web development. Let’s connect and build something amazing!
+
+
 
 
 ## 🌐 Socials:
