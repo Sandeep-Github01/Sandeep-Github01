@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sandeep Maharjan<br>🎓 I’m a BCA student with a strong passion for web development and emerging technologies.💡 I enjoy building innovative digital solutions and continuously learning about modern web frameworks and tools.<br><br>🎯 Goal: To deepen my expertise in full-stack development and contribute to impactful projects.<br><br>I’m always open to collaboration and new opportunities in web development. Let’s connect and build something amazing!
+👋 Hi, I'm Sandeep Maharjan<br><br>🎓 I’m a BCA student with a strong passion for web development and emerging technologies.<br><br>💡 I enjoy building innovative digital solutions and continuously learning about modern web frameworks and tools.<br><br>🎯 Goal: To deepen my expertise in full-stack development and contribute to impactful projects.<br><br>I’m always open to collaboration and new opportunities in web development. Let’s connect and build something amazing!
 
 
 ## 🌐 Socials:
